@@ -45,6 +45,8 @@ luego de crear el codigo lo agrego a una carpeta donde empiezo a usar git bash:
 7.**hago el pull request**
 
 
+usuario:jimk14   nombre:Cristian Garcia
+
 
 
  
